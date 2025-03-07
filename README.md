@@ -33,12 +33,9 @@ Pantalla de inicio del amigo secreto
 
 
 Tecnologías Utilizadas
-- JavaScript
-- HTML
+- JavaScrip- HTML
 - CSS
   
-Autor
-Jorge Maquera  /  https://github.com/jorge753e
 
 
 ================================================
