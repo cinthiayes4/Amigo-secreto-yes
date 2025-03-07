@@ -1,6 +1,6 @@
-================================================
+
 File: README.md
-================================================
+
 Juego del amigo secetro
 
 Descripción
@@ -38,9 +38,9 @@ Tecnologías Utilizadas
   
 
 
-================================================
+
 File: app.js
-================================================
+
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 let numSorteado = 0;
 let listaDeAmigos = [];
@@ -150,9 +150,9 @@ function reiniciarJuego(){
 
 
 
-================================================
+
 File: index.html
-================================================
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
